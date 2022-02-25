@@ -7,6 +7,7 @@ URL [http://localhost:3000](http://localhost:3000)
 
 
 **Screenshot:**
+
 Tampilan Dashboard:
 ![alt tag](https://github.com/zidni-bwi/react-dashboard/blob/main/Screenshot_1.png)
 Tampilan Settings:
