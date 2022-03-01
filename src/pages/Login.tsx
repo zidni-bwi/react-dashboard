@@ -10,7 +10,7 @@ const Login = () => {
       <label className="sr-only">Email address</label>
       <input className="form-control" placeholder="Email address" required />
       <label className="sr-only">Password</label>
-      <input className="form-control"required />
+      <input className="form-control mb-2" required />
       <button className="btn btn-lg btn-primary btn-block form-control" type="submit">Sign in</button>
       </div>
       </div>
